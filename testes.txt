@@ -1,0 +1,20 @@
+--> Casos de teste
+CT01 - Teste para entrar nao página inicial ("Teste positivo!").
+
+CT02 - Teste de botão de próxima pagina ("Teste Positivo!").
+
+CT03 - Teste do hover dos cards ("Teste positivo!").
+
+CT04 - Os cards devem apresentar imagens. ("Os cards possuem imagens, Teste positivo").
+
+CT05 - O site deve conter o link no footer que leva ao repositório do git hub. ("Teste positivo!").
+
+CT06 - Teste para ver se todos os itens estão alinhados. ("Teste positivo!").
+
+CT07 - Teste para ver se o input funciona ("Teste Positivo").
+
+CT08 - Teste para ver se o link do whatzapp está no site ("Teste positivo!").
+
+CT09 - Teste para ver se há cards no site ("Teste Positivo!"). 
+
+CT10 - Teste para ver se há uma API chart.js no site ("Teste Positivo").
