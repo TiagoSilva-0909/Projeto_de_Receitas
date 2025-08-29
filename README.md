@@ -31,3 +31,16 @@ Atualizações:
 Criamos 2 abas de receitas de café e de Sobremesas,mas funcionaram do mesmo jeito das demais API's ,ao clicar nos cards apareceram as informações de como fazer a receita escolhida. estamos fazendo tambem um gráfico das receitas mais populares ,para as pessoas verem qual a melhor recita entre as outras.
 
 Também criamos no github 3 branchs,uma para o dev(desenvolvedor),uma para os testes e outra chamada master que vai ter o readme e as atualizações do projeto.
+
+Casos de teste críticos:
+
+1-teste do imput
+2-teste de botão de busca
+3-teste de página funcional
+4-teste de APIs
+5-teste de HOVERs nos cads
+6-Teste para ver se todos os itens estão alinhados
+7-teste de  imagens
+8-Teste para ver se há cards no site
+9-Teste para ver se o link do whatzapp está no site
+10-teste para ver se o link do github leva ao git do DEV
