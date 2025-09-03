@@ -44,3 +44,14 @@ Casos de teste críticos:
 8-Teste para ver se há cards no site
 9-Teste para ver se o link do whatzapp está no site
 10-teste para ver se o link do github leva ao git do DEV
+
+Versão Final:
+
+responsividade do site-ok
+acessibilidade-ok
+APIs em funcionalidade-ok
+site fácil de se entender-ok
+funcionalidade da pesquisa-ok
+informações das receitas-ok
+site com no mínimo 3 páginas html-ok
+
