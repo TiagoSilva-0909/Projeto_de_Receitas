@@ -19,12 +19,71 @@ OBJETIVOS DO PROJETO:
 
 FERRAMENTAS QUE USAREMOS:
 
-.API de receitas de culinária .API chart.js .HTML .CSS .BOOTSTRAP .E USAREMOS O VERSIONAMENTO DO GITHUB
+.API de receitas de culinária
+.API chart.js
+.HTML
+.CSS 
+.BOOTSTRAP
+.javaScript
+.E USAREMOS O VERSIONAMENTO DO GITHUB
 
 EXPLICAÇÕES DAS TECNOLOGIAS ENVOLVIDAS:
 
-Usaremos o html criar e estruturar os códigos do site. O css usaremos para estizar o site deixar com as cores certas e agradáveis. O bootstrap usaremos para criarmos o carrocel.
+Usaremos o html criar e estruturar os códigos do site.
+O css usaremos para estizar o site deixar com as cores certas e agradáveis.
+o javaScript para dar funcionalidade ao site.
+O bootstrap usaremos para criarmos os  botões de busca.
+E as APIs para buscar os dados das receitas.
+
 
 Caso queira dar uma olhada no nosso protótipo clique copie esse link=https://www.figma.com/design/fo32lnIfzXdLVJN8S7EWab/Sem-t%C3%ADtulo?node-id=0-1&m=dev&t=JPPCW4Kdbsb3RIIY-1# receitas
+
+#CASOS CRÍTICOS
+
+.funcionalidade do imput
+.APIs em funcionamento
+.funcionalidades dos botões de próxima página
+.cards com informações das receitas
+.gráfico com a quantidade de receitas mais vistas
+
+
+#REQUISITOS
+
+
+ENTREGA-1
+.Utilizar frameworks de CSS
+.Consumir e integrar com no mínimo duas APIs e chart.js(para apresentar os dados)
+.Boas práticas de código limpo (indentação, comentários etc)
+.Implementar testes automatizados e fazer seus casos de testes(Jest, Selenium, Cypress, etc)
+.Implementar um formulário
+.Garantir para todos os usuários (contraste, navegação por teclado)
+.Criar uma adaptável a diferentes dispositivos(responsividade)
+.Criar opção de acessibilidade.
+.Criar a documentação do projeto com arquivo README
+.Criar versionamento do projeto organizado em no mínimo 3 branches e uma TAG
+
+
+ENTREGA-2
+
+--> Criação da estrutura HTML.
+--> Estilo CSS e estilo Bootstrap.
+--> Versionamento e atualização dos documentos de software.
+
+ENTREGA-3
+
+--> Integração com API.
+--> Testes automatizados.
+--> Descrição dos teste e casos de testes e versionamento do arquivos de teste. 
+
+ENTREGA-4
+
+--> Relatório de testes e atualização dos documentos.
+--> Apontamento de casos críticos na documentação, 
+--> Ajuste finais para o layout, acessibilidade, responsividade.
+
+ENTREGA-5
+
+--> Deploy do projeto.
+--> Apresentação do projeto.
 
 
