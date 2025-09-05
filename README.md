@@ -1,3 +1,6 @@
+#PROJETO_RECEITAS
+
+
 Este projeto tem como objetivo criar uma plataforma de receitas culinárias acessível, organizada e fácil de usar. Aqui, você encontrará receitas variadas com instruções passo a passo, ingredientes, tempo de preparo e outras informações úteis para quem quer cozinhar em casa, seja iniciante ou experiente.
 
 JUSTIFICATIVA:
@@ -23,4 +26,5 @@ EXPLICAÇÕES DAS TECNOLOGIAS ENVOLVIDAS:
 Usaremos o html criar e estruturar os códigos do site. O css usaremos para estizar o site deixar com as cores certas e agradáveis. O bootstrap usaremos para criarmos o carrocel.
 
 Caso queira dar uma olhada no nosso protótipo clique copie esse link=https://www.figma.com/design/fo32lnIfzXdLVJN8S7EWab/Sem-t%C3%ADtulo?node-id=0-1&m=dev&t=JPPCW4Kdbsb3RIIY-1# receitas
+
 
